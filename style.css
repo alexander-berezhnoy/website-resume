@@ -8,6 +8,10 @@ body {
   font-family: "Roboto Slab", sans-serif;
 }
 
+ul {
+  list-style: none;
+}
+
 #resume {
   font-weight: 400;
   overflow: auto;
