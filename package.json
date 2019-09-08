@@ -1,0 +1,19 @@
+{
+  "name": "website-resume",
+  "version": "1.0.0",
+  "description": "My simple one-page printable resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexander-berezhnoy/website-resume.git"
+  },
+  "author": "Oleksandr Berezhnyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexander-berezhnoy/website-resume/issues"
+  },
+  "homepage": "https://github.com/alexander-berezhnoy/website-resume#readme"
+}
